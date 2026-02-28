@@ -22,5 +22,3 @@ The following visualizations were created:
 
 ## Conclusion
 The analysis showed that most patients are between 50 and 65 years old, and there are more male patients than female patients. Cholesterol and blood pressure levels vary among patients.
-
-This analysis helps in understanding the dataset and identifying patterns related to heart disease.
